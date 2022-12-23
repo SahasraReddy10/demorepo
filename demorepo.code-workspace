@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "demorepo-1",
+		"path": "../demorepo-1"
+	}
+],
+  "settings": {}
+}
